@@ -1,5 +1,4 @@
-# COLLEGE-MANAGEMENT-SYSTEM
-# College Management System
+# COLLEGE MANAGEMENT SYSTEM
 
 Welcome to the College Management System project repository!
 
